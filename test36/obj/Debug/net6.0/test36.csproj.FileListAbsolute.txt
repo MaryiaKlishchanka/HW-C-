@@ -1,0 +1,15 @@
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.csproj.AssemblyReference.cache
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.GeneratedMSBuildEditorConfig.editorconfig
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.AssemblyInfoInputs.cache
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.AssemblyInfo.cs
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.csproj.CoreCompileInputs.cache
+/home/masha/Рабочий стол/HW5/test36/bin/Debug/net6.0/test36
+/home/masha/Рабочий стол/HW5/test36/bin/Debug/net6.0/test36.deps.json
+/home/masha/Рабочий стол/HW5/test36/bin/Debug/net6.0/test36.runtimeconfig.json
+/home/masha/Рабочий стол/HW5/test36/bin/Debug/net6.0/test36.dll
+/home/masha/Рабочий стол/HW5/test36/bin/Debug/net6.0/test36.pdb
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.dll
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/refint/test36.dll
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.pdb
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/test36.genruntimeconfig.cache
+/home/masha/Рабочий стол/HW5/test36/obj/Debug/net6.0/ref/test36.dll
