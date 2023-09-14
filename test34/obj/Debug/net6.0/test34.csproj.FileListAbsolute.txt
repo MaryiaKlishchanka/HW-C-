@@ -1,0 +1,15 @@
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.csproj.AssemblyReference.cache
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.GeneratedMSBuildEditorConfig.editorconfig
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.AssemblyInfoInputs.cache
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.AssemblyInfo.cs
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.csproj.CoreCompileInputs.cache
+/home/masha/Рабочий стол/HW5/test34/bin/Debug/net6.0/test34
+/home/masha/Рабочий стол/HW5/test34/bin/Debug/net6.0/test34.deps.json
+/home/masha/Рабочий стол/HW5/test34/bin/Debug/net6.0/test34.runtimeconfig.json
+/home/masha/Рабочий стол/HW5/test34/bin/Debug/net6.0/test34.dll
+/home/masha/Рабочий стол/HW5/test34/bin/Debug/net6.0/test34.pdb
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.dll
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/refint/test34.dll
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.pdb
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/test34.genruntimeconfig.cache
+/home/masha/Рабочий стол/HW5/test34/obj/Debug/net6.0/ref/test34.dll
